@@ -1,0 +1,9 @@
+body{
+    @apply bg-slate-900
+}
+select{
+    @apply block w-80 p-2
+}
+label{
+    @apply text-white block pb-2  text-xl outline-none
+}
