@@ -10,7 +10,7 @@ export default function CurrentLocationData() {
        }, 1000);
     } , [])
   return (
-    <div className="text-white flex flex-col gap-5">
+    <div className="text-white flex items-center flex-col gap-5">
        <h2>{time}</h2>
        <h1 className="font-bold text-3xl">{city} </h1>
     </div>

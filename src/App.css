@@ -1,5 +1,5 @@
 body{
-    @apply bg-slate-900
+    @apply bg-slate-900 pb-4
 }
 select{
     @apply block w-80 p-2
